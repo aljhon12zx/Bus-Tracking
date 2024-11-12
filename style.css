@@ -1,0 +1,133 @@
+/* style.css for Bus Tracking Dashboard */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.table thead th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.dropdown-menu {
+    min-width: 150px;
+}
+/* style.css for Bus Tracking System with Data Analytics */
+body {
+    background-color: #f8f9fa;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.card {
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.navbar {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.card-body p {
+    font-size: 1.1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.footer {
+    margin-top: 40px;
+    text-align: center;
+    color: #6c757d;
+}
+/* style.css for User Profile */
+body {
+    background-color: #f8f9fa;
+}
+
+.profile-card {
+    margin-top: 20px;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.btn-primary {
+    margin-top: 20px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.notification {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    font-size: small;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.notification .badge {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    padding: 3px 8px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+    font-size: 8px;
+}
