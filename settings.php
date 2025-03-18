@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="style.css">
   
 </head>
-<body>
+<body> 
 
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
